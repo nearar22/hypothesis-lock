@@ -1,0 +1,10 @@
+HYPOTHESISLOCK DEMONSTRATION PREREGISTRATION
+
+HYPOTHESIS: A single reminder increases completed applications.
+PRIMARY_OUTCOME: Proportion of complete applications submitted within 7 days.
+POPULATION: First-time adult applicants enrolled from 1 January through 31 March 2026.
+EXCLUSIONS: Duplicate accounts and unreachable email addresses.
+ANALYSIS_WINDOW: Outcomes measured for 7 days after enrollment.
+
+This is the complete preregistered protocol. The five labeled dimensions are frozen before a final report can be attached.
+
