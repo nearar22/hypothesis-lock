@@ -64,3 +64,13 @@ The two files in `docs/` contain an explicit undisclosed switch from “complete
 - Chain ID: `61997`
 - Explorer: `https://explorer-studio-dev.genlayer.com/`
 
+Verified deployment:
+
+- Contract: [`0x8eb5BE1491EAAD0C3A9F33cB1DE555177b4E9234`](https://explorer-studio-dev.genlayer.com/address/0x8eb5BE1491EAAD0C3A9F33cB1DE555177b4E9234)
+- Deployment transaction: [`0x67ed8a...22dc`](https://explorer-studio-dev.genlayer.com/tx/0x67ed8ae890c455c0e1218cd9fe4c4b09508f71534b6c0a56babed8aca5b122dc)
+- Live study: `hypothesis-lock-mvbdv1x5`
+- Live result: `SELECTIVE_REPORTING / BLOCKED`; `PRIMARY_OUTCOME` was classified `UNDISCLOSED_CHANGE`
+- Local and deployed source SHA-256: `d35565c232e00d60a707085314f6f90495c8a4d2731a02ef6113e3bc3242bcc0`
+
+Every transaction hash and the machine-readable result are recorded in `deployment.json`.
+

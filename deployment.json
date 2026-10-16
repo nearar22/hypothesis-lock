@@ -1,0 +1,21 @@
+{
+  "network": "GenLayer Studio Next",
+  "chainId": 61997,
+  "rpc": "https://studio-next.genlayer.com/api",
+  "contractAddress": "0x8eb5BE1491EAAD0C3A9F33cB1DE555177b4E9234",
+  "deploymentTransaction": "0x67ed8ae890c455c0e1218cd9fe4c4b09508f71534b6c0a56babed8aca5b122dc",
+  "sourceSha256": "d35565c232e00d60a707085314f6f90495c8a4d2731a02ef6113e3bc3242bcc0",
+  "sourceMatch": true,
+  "liveDemo": {
+    "studyId": "hypothesis-lock-mvbdv1x5",
+    "createTransaction": "0x5b6ce0d5bde531b6bc00df4a5845e4f5577624bb42176a7d030baaa214ec4468",
+    "freezePreregistrationTransaction": "0xec0791135f4a62a2c8aee9ba844cb07cee657b59648895a4b27eb0fdac788b9a",
+    "submitReportTransaction": "0xb8f6e846e76fed9367baf57bc6be7d363243c3d79a543f0f647b8a9931380267",
+    "freezeReportTransaction": "0xc7fddcc5a82303ffa4c645dd583574aa870cf23b4011cb6e0323127516586c0b",
+    "evaluateTransaction": "0x90965d61839cf051d3dd227f92d92b6c4dce41c0d48cd41912d5edce1a370f7d",
+    "finalState": "SELECTIVE_REPORTING",
+    "trustGate": "BLOCKED",
+    "primaryOutcomeState": "UNDISCLOSED_CHANGE"
+  }
+}
+
